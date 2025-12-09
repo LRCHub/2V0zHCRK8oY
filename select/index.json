@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "CLOUDY HEART (Single Version)",
+  "base_artist": "Boowy",
+  "createdAt": "2025-12-09T08:54:56.476941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cloudy Heart (Single Version)",
+      "artist": "BOØWY",
+      "has_synced": true,
+      "path": "select/01_Cloudy_Heart_(Single_Version)_BOØWY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CLOUDY HEART <Single Version>",
+      "artist": "BOOWY",
+      "has_synced": false,
+      "path": "select/pl_01_CLOUDY_HEART__Single_Version_BOOWY.txt"
+    }
+  ]
+}
